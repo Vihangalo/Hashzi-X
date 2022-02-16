@@ -86,7 +86,8 @@
 
 #### Termux මඟින් ලබාගන්න
 ```
-bash <(curl -L https://tinyurl.com/ALEXA-session) 
+bash <(curl -L https://tinyurl.com/ALEXA-session) bash <(curl -L https://tinyurl.com/ALEXA-session) 
+```
 ```
 ##### ඉහත කේතය Copy කරගෙන termux එකෙ paste කරලා Run කරන්න.
 
